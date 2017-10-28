@@ -1,0 +1,23 @@
+td {
+    width: 30px;
+    height: 30px;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td, table {
+    border: solid 1px black;
+}
+
+.on {
+    background-color: rgb(95, 147, 95);
+}
+
+.off {
+    background-color: white;
+}
